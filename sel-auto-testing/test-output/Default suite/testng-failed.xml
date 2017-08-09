@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="fusepackage.FuseTask">
+        <methods>
+          <include name="ST0008enterProjectManagerTaskEndDate" invocation-numbers="0"/>
+          <include name="ST0010verifyCoordinator"/>
+          <include name="ST0019clickTaskstab"/>
+          <include name="ST0011selectProjectManagerTask"/>
+          <include name="ST0008checkTitle"/>
+          <include name="ST0019clickClose"/>
+          <include name="ST0008clickAnotherAffectedObject"/>
+          <include name="ST0008enterProjectManagerTaskStartDate" invocation-numbers="0"/>
+          <include name="ST0006projectManagerlogin"/>
+          <include name="ST0011closeProjectManagerTaskWindow"/>
+          <include name="ST0008clickAffectedObject"/>
+          <include name="ST0008clickTagButton"/>
+          <include name="ST0008clickTaskCloseButton"/>
+          <include name="ST0017deleteOwner"/>
+          <include name="ST0009clickOwnerCloseButton"/>
+          <include name="ST0016clickOutside"/>
+          <include name="ST0011clickTasksTab"/>
+          <include name="STOO19clickBoardstab"/>
+          <include name="ST0011closeTheTaskWindow"/>
+          <include name="ST0011logout2"/>
+          <include name="ST0009clickProjectManagerTask"/>
+          <include name="ST0019logout3"/>
+          <include name="ST0008checkOwner"/>
+          <include name="ST0010addCoordinator" invocation-numbers="0"/>
+          <include name="ST0014removeRCOwner"/>
+          <include name="ST0005logout"/>
+          <include name="ST0007clickAddTaskButton"/>
+          <include name="ST0006clickTaskTab"/>
+          <include name="ST0008clickBackDrop"/>
+          <include name="ST0019clickCreatedtask"/>
+          <include name="ST0007clickCloseTaskButton"/>
+          <include name="ST0007enterTitle" invocation-numbers="0"/>
+          <include name="ST0009verifyWarningStatus"/>
+          <include name="ST0011clickBoards"/>
+          <include name="ST0017clickRcTask"/>
+          <include name="ST0019clickCloseTask"/>
+          <include name="afterMethod"/>
+          <include name="ST0010verifyAnotherCoordinator"/>
+          <include name="beforeMethod"/>
+          <include name="ST0008clickCreatedProjectManagerTask"/>
+          <include name="ST0016closetask"/>
+        </methods>
+      </class> <!-- fusepackage.FuseTask -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

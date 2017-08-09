@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="fusepackage.FuseSearchandRevision">
+        <methods>
+          <include name="RAR087ProductsStatusofAddAnotherParttoBOM"/>
+          <include name="RAR075SearchonProductsfromtheSearchList"/>
+          <include name="RAR040GetStatusofProductAddAffectedObjectsInECRBoard"/>
+          <include name="logout"/>
+          <include name="RAR035GetStatusofPartAddAffectedObjectsTwoInECRBoard"/>
+          <include name="RAR116ClickOnBoardsFromtheLeftTree"/>
+          <include name="RAR127RemovethePartinAffectedObjectsuintheCard"/>
+          <include name="RAR018ClickonPartfromtheSearch"/>
+          <include name="RAR088InProductsEnterAnotherBOMNotesinAddBOM"/>
+          <include name="RAR136ClickonImpactVisualizerButtonintheCardfromECOBoard"/>
+          <include name="RAR004ClickonChangeStatusinProduct"/>
+          <include name="RAR006CheckforSaveButton"/>
+          <include name="RAR029SearchBillofmaterialtapinPart"/>
+          <include name="RAR034GetStatusofPartAddAffectedObjectsOneInECRBoard"/>
+          <include name="RAR075ClickonBackButtonofProductformtheSeachList"/>
+          <include name="RAR092GetStatusonAddObjectTwotoAffectedObjectsintheCardFromECOBoard"/>
+          <include name="RAR014ClickonAttachmentsTabinProduct"/>
+          <include name="RAR051SearchtheAssociatedCardsinthePart"/>
+          <include name="RAR137ClickonPartLinkintheCardfromECOBoard"/>
+          <include name="RAR139EditPartsandClickOnWhereusedTapinPart"/>
+          <include name="RAR133GetStatusOnCardMoveFromInitialToCancelinECOBoard"/>
+          <include name="RAR081InPartsGetStatusOnDeleteanyoneOfthePartfromBOM"/>
+          <include name="RAR115ClickonPartfromthePartList"/>
+          <include name="RAR096SearchAssociatedCardfromthePartView"/>
+          <include name="RAR095ClickOnImpactVisualizerButtonintheCardfromECOBoard"/>
+          <include name="RAR079UpdatetheRefValueinBOMfromSearch"/>
+          <include name="RAR006CheckforDeleteButton"/>
+          <include name="RAR092GetStatusonAddObjectOnetoAffectedObjectsintheCardFromECOBoard"/>
+          <include name="RAR087InProductsClickAddParttoBOMButtoninAddBOMforAddAnotherPart"/>
+          <include name="RAR081InPartsClickonEditButtontoDeleteanyoneOfthePartfromBOM"/>
+          <include name="RAR081InPartsClickonOKButtonInConfirmationMessagetoDeleteanyoneOfthePartfromBOM"/>
+          <include name="RAR130ClickonECOBoardinBoards"/>
+          <include name="RAR087InProductsScrolldowninAddBOMforaddAnotherBOM"/>
+          <include name="RAR068GetStatusonMovetheCardfromInitiatedtoApproved"/>
+          <include name="RAR078SearchBOMinPartsfromSearchList"/>
+          <include name="RAR104ClickOnObjectOnetoBackViewWhereUsed"/>
+          <include name="RAR088InProductsEnterAnotherQuantityinAddBOM"/>
+          <include name="RAR128AssignthisTaskTwointoProjectManager" invocation-numbers="0"/>
+          <include name="RAR080ClickonAddParttoBOMIfPartisInDevelopment"/>
+          <include name="RAR087InProductsEnterAnotherRefinAddBOM"/>
+          <include name="RAR128AssignthisTaskOneintoProjectManager" invocation-numbers="0"/>
+          <include name="RAR087InProductsEnterAnotherLocationinAddBOM"/>
+          <include name="RAR004ClickOnReleaseButtoninChangeStatusofProduct"/>
+          <include name="RAR088InProductsScrolldowninAddBOMforaddAnotherBOM"/>
+          <include name="RAR132ClickontheApprovaltoTaskOnefromECOBoard"/>
+          <include name="RAR011GetStatusofProductIncrementalRevision"/>
+          <include name="RAR099GetStatusonAddProducttoAffectedObjectsintheCard"/>
+          <include name="RAR080InPartsEnterAnotherPartNumberinAddBOM"/>
+          <include name="RAR113ClickOnModificationECOintheCardfromECOBoard"/>
+          <include name="RAR110SearchthePartinAffectedObjectsuintheCardfromECOBoard"/>
+          <include name="RAR104ClickOnObjectOnetoCheckCorrespondingWhereUsedUpdatedAutomatically"/>
+          <include name="RAR030ClickonAdditionalInfoTabinPart"/>
+          <include name="RAR106VerifytheInitialReleasefromModificationECO"/>
+          <include name="RAR136ClickontheCardinCancelListinECOBoard"/>
+          <include name="RAR026EntertheRevisionNotesinIncrementalRevisionofPart" invocation-numbers="0"/>
+          <include name="RAR105ClickOnModificationECOintheCardfromECOBoard"/>
+          <include name="RAR079UpdatetheQunatityinBOMfromSearch"/>
+          <include name="RAR094GetStatusonAddObjectThreetoAffectedObjectsintheCardFromECOBoard"/>
+          <include name="RAR128CreateTaskTwointheCardfromECOBoard" invocation-numbers="0"/>
+          <include name="RAR132ClickontheApprovaltoTaskTwofromECOBoard"/>
+          <include name="RAR029ClickonBillofmaterialtapinPart"/>
+          <include name="RAR062ClickonAddTaskButtontoAddTaskTwointheCard"/>
+          <include name="RAR078ClickonBOMinPartsfromSearchList"/>
+          <include name="RAR127SearchthePartinAffectedObjectsuintheCardfrom"/>
+          <include name="RAR104ClickOnObjectTwotoCheckCorrespondingWhereUsedUpdatedAutomatically"/>
+          <include name="RAR139EditPartsandSearchBillofmaterialtapinPart"/>
+          <include name="RAR139EditPartsandClickonSourcingTapinPart"/>
+          <include name="RAR109ClickOnImpactVisualizerButtonBacktoCardViewfromECOBoard"/>
+          <include name="RAR011EntertheRevisionNotesinIncrementalRevisionofProduct" invocation-numbers="0"/>
+          <include name="RAR096ScrollToAssociatedCardfromthePartView"/>
+          <include name="RAR092EnterObjectonetoAddAffectedObjectsontheCard" invocation-numbers="0"/>
+          <include name="RAR084SearchOnProductFromtheSearchList"/>
+          <include name="RAR112ClickOnObjectOnetoCheckCorrespondingWhereUsedUpdatedAutomatically"/>
+          <include name="RAR019ClickOnReleaseButtoninChangeStatusofPart"/>
+          <include name="RAR076SearchonPartsListfromSearch"/>
+          <include name="RAR079ClickonEditButtoninBOMfromSearchList"/>
+          <include name="RAR080PartStatusofAddAnotherParttoBOM"/>
+          <include name="RAR101ScrollToAssociatedCardfromtheProductView"/>
+          <include name="RAR009CheckheaderbuttonsforIncrementRevisionbuttoninProduct"/>
+          <include name="RAR024CheckheaderbuttonsforIncrementRevisionbuttoninPart"/>
+          <include name="RAR080InPartsEnterAnotherRefinAddBOM"/>
+          <include name="RAR074ClickonCardfromtheSearchList"/>
+          <include name="RAR074SearchonCardsListfromtheSearch"/>
+          <include name="RAR100ClickOnImpactVisualizerButtonintheCard"/>
+          <include name="RAR129ClosetheCardfromECOBoard"/>
+          <include name="RAR008EntertheProjectNameinBasicInfofromofProduct" invocation-numbers="0"/>
+          <include name="RAR062AssignthisTaskintoReleaseCoordinator" invocation-numbers="0"/>
+          <include name="RAR088InProductsClickonDeleteButtontoDeleteanyoneOfthePartfromBOM"/>
+          <include name="RAR088InProductsEnterAnotherPartNumberinAddBOM"/>
+          <include name="RAR063ClickonCloseButtonintheCardFromECRBoard"/>
+          <include name="RAR108ClickonPartfromLeftinModificationECO"/>
+          <include name="RAR046ClickonObjectThreetoCheckwhereUsed"/>
+          <include name="RAR088InProductsClickonEditButtontoDeleteanyoneOfthePartfromBOM"/>
+          <include name="RAR101SearchAssociatedCardfromtheProductView"/>
+          <include name="RAR043GoToProductViewandScrolldowntoAssociatedCards"/>
+          <include name="RAR079GetStatusofBOMfromSearchList"/>
+          <include name="RAR118GetStatusonAddObjectOneinAffectedObjectsintheCard"/>
+          <include name="RAR087InProductsEnterAnotherBOMNotesinAddBOM"/>
+          <include name="RAR015ClickonAdditionalInfoTabinProduct"/>
+          <include name="RAR042ClickonObjectThreeLinkinECRBoard"/>
+          <include name="RAR027VerifyDataintheNewRevisionischeckintheBasicInfo"/>
+          <include name="RAR011GetProductIdentityafterIncrementalRevision"/>
+          <include name="RAR026GetProductIdentityafterIncrementalRevision"/>
+          <include name="RAR128GetStatusonTaskOneAssigntoProjectManagerintheCardfromECOBoard"/>
+          <include name="RAR132ClosetheCardfromECOBoard"/>
+          <include name="RAR046ClickonObjectTwotoCheckwhereUsed"/>
+          <include name="RAR115EnterPartDetailstoSearch" invocation-numbers="0"/>
+          <include name="RAR062EntertheTaskOneNameintheCard" invocation-numbers="0"/>
+          <include name="RAR104ClickOnObjectTwotoCheckBackViewWhereUsed"/>
+          <include name="RAR085ClickOnProductFromtheSearchList"/>
+          <include name="RAR108UnSelecttheProductRev2fromLeft"/>
+          <include name="RAR097ClickOnAssociatedCardfromthePartView"/>
+          <include name="RAR103ClickOnImpactVisualizerButtonintheCard"/>
+          <include name="RAR088ProductsStatusofAddAnotherParttoBOM"/>
+          <include name="RAR128CreateTaskOneintheCardfromECOBoard" invocation-numbers="0"/>
+          <include name="RAR062GetStatusonTaskAssignedtoProjectManager"/>
+          <include name="RAR112ClickOnObjectOnetoBackViewWhereUsed"/>
+          <include name="RAR012VerifyDataintheNewRevisionischeckintheBasicInfo"/>
+          <include name="RAR026ClickYesonConfirmationMessageinIncrementalRevisionofPart"/>
+          <include name="RAR019SearchChangeStatusinPart"/>
+          <include name="RAR003SearchChangeStatusinProduct"/>
+          <include name="RAR115SearchtheAssociatedCardsinthePart"/>
+          <include name="RAR086SearchBOMinProductsfromSearchList"/>
+          <include name="RAR115FindthePartsfromtheSearchList"/>
+          <include name="RAR013ClickonBillofmaterialtapinProduct"/>
+          <include name="RAR021CheckforDeleteButton"/>
+          <include name="RAR002FindtheProductfromtheSearch"/>
+          <include name="RAR128ClickOnAddTaskButtontoAddTaskOneintheCardfromECOBoard"/>
+          <include name="RAR008EnterthePartNameinBasicInfofromofProduct" invocation-numbers="0"/>
+          <include name="RAR037ClickonObjectoneLinkinECRBoard"/>
+          <include name="RAR087InProductsEnterAnotherQuantityinAddBOM"/>
+          <include name="RAR021CheckforSaveButton"/>
+          <include name="RAR126ClickOnImpactVisualizerButton"/>
+          <include name="RAR023EnterthePartNameinBasicInfofromofPart" invocation-numbers="0"/>
+          <include name="RAR046ClickonObjectTwotoNormalView"/>
+          <include name="RAR116ClickontheCardfromECOBoards"/>
+          <include name="RAR011ClickYesonConfirmationMessageinIncrementalRevisionofProduct"/>
+          <include name="RAR102ClickOnAssociatedCardfromtheProductView"/>
+          <include name="RAR112ClickOnObjectTwotoCheckBackViewWhereUsed"/>
+          <include name="RAR030ClickonSourcingTapinPart"/>
+          <include name="RAR013SearchBillofmaterialtapinProduct"/>
+          <include name="RAR116ClickonECOBoardsfromtheBoards"/>
+          <include name="RAR131ClickonMessagetoConfirmation"/>
+          <include name="RAR077ClickonPartfromSearchList"/>
+          <include name="RAR120ClickModificationTabintheCard"/>
+          <include name="RAR062AssignthisTaskintoProjectManager" invocation-numbers="0"/>
+          <include name="RAR018FindthePartfromtheSearch"/>
+          <include name="RAR088InProductsClickonOKButtonInConfirmationMessagetoDeleteanyoneOfthePartfromBOM"/>
+          <include name="RAR088InProductsEnterAnotherLocationinAddBOM"/>
+          <include name="RAR088InProductsGetStatusOnDeleteanyoneOfthePartfromBOM"/>
+          <include name="RAR062ClickonTaskOneCloseButtonintheCard"/>
+          <include name="RAR131CloseApprovalMandatoryErrorMessage"/>
+          <include name="RAR026GetStatusofPartIncrementalRevision"/>
+          <include name="RAR114ClickOnPartsFromLeftTree"/>
+          <include name="RAR136GetStatusonFirstAffetectdObjectsintheCardECOBoard"/>
+          <include name="RAR088InProductsClickAddParttoBOMButtoninAddBOMforAddAnotherPart"/>
+          <include name="RAR088InProductsEnterAnotherRefinAddBOM"/>
+          <include name="RAR046ClickonObjectOnetoNormalView"/>
+          <include name="RAR140EditPartsClickOnTimelineTab"/>
+          <include name="RAR008ClickOnBasicInfoTabfromProductView"/>
+          <include name="RAR132ClickontheCardinInitialListfromECOBoard"/>
+          <include name="RAR044ClickOnAssociatedCardsintheProductView"/>
+          <include name="RAR072SearchonTasksListfromtheSearch"/>
+          <include name="RAR100ClickOnProductLinktoViewtheProductinWhereUsed"/>
+          <include name="RAR087InProductsEnterAnotherPartNumberinAddBOM"/>
+          <include name="RAR053AddObjectOneAffectedObjectsontheCard" invocation-numbers="0"/>
+          <include name="RAR080InPartsScrolldowninAddBOMforaddAnotherBOM"/>
+          <include name="RAR139EditPartsandClickonBillofmaterialtapinPart"/>
+          <include name="RAR065CloseApprovalMandatoryErrorMessage"/>
+          <include name="RAR136GetStatusonSecondAffetectdObjectsintheCardECOBoard"/>
+          <include name="RAR019ClickonChangeStatusinPart"/>
+          <include name="RAR110RemovethePartinAffectedObjectsuintheCardfromECOBoard"/>
+          <include name="RAR075ClickonProductfromtheSearchList"/>
+          <include name="RAR111ClickOnImpactVisualizerButtonintheCard"/>
+          <include name="RAR027DataintheNewRevisionischeckintheBasicInfo"/>
+          <include name="RAR043SearchAssociatedCardsintheProductView"/>
+          <include name="RAR096ClickOnObjectThrreLinkfromtheCard"/>
+          <include name="logoutfromProjectManager"/>
+          <include name="RAR128ClickOnAddTaskButtontoAddTaskTwointheCardfromECOBoard"/>
+          <include name="RAR080InPartsEnterAnotherLocationinAddBOM"/>
+          <include name="RAR062ClickonTaskTwoCloseButtonintheCard"/>
+          <include name="RAR128ClosetheTaskTwointheCardfromECOBoard"/>
+          <include name="RAR139EditPartsandEnterDescriptioninBasicInfoofPart" invocation-numbers="0"/>
+          <include name="RAR037GoToPartViewandScrolldowntoAssociatedCards"/>
+          <include name="RAR062ClickonAddTaskButtontoAddTaskOneintheCard"/>
+          <include name="RAR046ClickonObjectThreetoNormalView"/>
+          <include name="RAR133ClickonMessagetoConfirmation"/>
+          <include name="RAR130ClickonBoardsAgainFromLeftTree"/>
+          <include name="RAR046ClickonObjectOnetoCheckwhereUsed"/>
+          <include name="RAR048ClickonRemoveButtontoRemovetheObjectOne"/>
+          <include name="RAR119ClickOnImpactVisualizerButton"/>
+          <include name="RAR012DataintheNewRevisionischeckintheBasicInfo"/>
+          <include name="RAR023EntertheProjectNameinBasicInfofromofPart" invocation-numbers="0"/>
+          <include name="RAR072ClickonTaskformtheSeachList"/>
+          <include name="RAR054GetStatusonAddObjectOneinAffectedObjectsintheCard"/>
+          <include name="RAR080InPartsEnterAnotherBOMNotesinAddBOM"/>
+          <include name="RAR073ClickonCloseButtonofTaskformtheSeachList"/>
+          <include name="RAR015ClickonSourcingTapinProducts"/>
+          <include name="RAR131GetApprovalMandatoryErrorMessage"/>
+          <include name="RAR080InPartsClickAddParttoBOMButtoninAddBOMforAddAnotherPart"/>
+          <include name="RAR028ClickonAttachmentsTabinProduct"/>
+          <include name="RAR080InPartsEnterAnotherQuantityinAddBOM"/>
+          <include name="RAR038SearchAssociatedCardsonthePartView"/>
+          <include name="RAR007ClickOnTimelineTabfromProductView"/>
+          <include name="RAR066ClickonApprovalButtontotheTaskOne"/>
+          <include name="RAR139EditPartsandClickonAdditionalInfoTabinPart"/>
+          <include name="RAR079SavetheDetailsinBOMfromSearchList"/>
+          <include name="RAR075ClickonCloseButtonofCardformtheSeachList"/>
+          <include name="RAR138SearchSaveButtonisDisableorNotinthePartView"/>
+          <include name="RAR107ClickOnProductRev2fromLeft"/>
+          <include name="RAR139EditPartsandClickonAttachmentsTabinPart"/>
+          <include name="RAR067ClickonMessagetoConfirmation"/>
+          <include name="RAR086ClickonBOMinProductsfromSearchList"/>
+          <include name="RAR020ClickYESonConfirmationMessageinChangeStatusofPart"/>
+          <include name="RAR039ClickOnAssociatedCardsinthePartView"/>
+          <include name="RAR022ClickOnTimelineTabfromProductView"/>
+          <include name="RAR066ClickonApprovalButtontotheTaskTwo"/>
+          <include name="login"/>
+          <include name="RAR005ClickYESonConfirmationMessageinChangeStatusofProduct"/>
+          <include name="RAR023ClickOnBasicInfoTabfromPartView"/>
+          <include name="RAR062EntertheTaskTwoNameintheCard" invocation-numbers="0"/>
+          <include name="RAR062GetStatusonTaskAssignedtoReleaseCoordinator"/>
+          <include name="RAR128ClosetheTaskOneintheCardfromECOBoard"/>
+          <include name="RAR112ClickOnObjectTwotoCheckCorrespondingWhereUsedUpdatedAutomatically"/>
+          <include name="RAR128GetStatusonTaskTwoAssigntoReleaseCoordinatorintheCardfromECOBoard"/>
+          <include name="RAR087ClickonAddParttoBOMIfProductisInDevelopment"/>
+          <include name="RAR002ClickonProductfromtheSearch"/>
+          <include name="RAR081InPartsClickonDeleteButtontoDeleteanyoneOfthePartfromBOM"/>
+          <include name="RAR048SearchObjectOneintheAffectedObjectstoRemove"/>
+        </methods>
+      </class> <!-- fusepackage.FuseSearchandRevision -->
+      <class name="fusepackage.FuseTask">
+        <methods>
+          <include name="STOO16enterStartdate" invocation-numbers="0"/>
+          <include name="ST0014removeRCOwner"/>
+          <include name="ST0005logout"/>
+          <include name="ST0010verifyCoordinator"/>
+          <include name="ST0017deleteOwner"/>
+          <include name="ST0017clickRcTask"/>
+          <include name="afterMethod"/>
+          <include name="ST0016clickOutside"/>
+          <include name="ST0016enterEnddate" invocation-numbers="0"/>
+          <include name="beforeMethod"/>
+          <include name="ST0011logout2"/>
+          <include name="ST0016closetask"/>
+          <include name="ST0017verifyWarning"/>
+        </methods>
+      </class> <!-- fusepackage.FuseTask -->
+      <class name="fusepackage.FuseCards">
+        <methods>
+          <include name="BCT0014enterReleaseCoordinatorTaskTwoEndDate" invocation-numbers="0"/>
+          <include name="BCT0011closeTaskWindow"/>
+          <include name="BCT0032verifyTaskThreeDuedate"/>
+          <include name="BCT0010enterReleaseCoordinatorTaskTitle" invocation-numbers="0"/>
+          <include name="BCT0007enterpriority" invocation-numbers="0"/>
+          <include name="BCT0011enterReleaseCoordinatorTaskEndDate" invocation-numbers="0"/>
+          <include name="BCT0020clickTasksTab"/>
+          <include name="BCT0037verifyTaskTitleTwo"/>
+          <include name="BCT0008clickSubscribebutton"/>
+          <include name="BCT0020clickPhaseEco"/>
+          <include name="BCT0014closeTaskTwo"/>
+          <include name="BCT0014enterReleaseCoordinatorTaskOwnerTwo" invocation-numbers="0"/>
+          <include name="BCT0045verify" invocation-numbers="0"/>
+          <include name="BCT0067dragAndDropToList3"/>
+          <include name="BCT0012scrollDown"/>
+          <include name="BCT0052upload"/>
+          <include name="BCT0025openApproval2Task"/>
+          <include name="BCT0071clickAddCardButton"/>
+          <include name="BCT0036ClickuploadButton"/>
+          <include name="BCT0009clickChecklistIcon"/>
+          <include name="BCT0032verifyTaskThreeTitle"/>
+          <include name="BCT0008clickSubscribeIcon"/>
+          <include name="BCT0026closeTask"/>
+          <include name="BCT0071CardName" invocation-numbers="0"/>
+          <include name="BCT0036clickCoverItem"/>
+          <include name="BCT0054addComment" invocation-numbers="0"/>
+          <include name="BCT0064unselectLock"/>
+          <include name="BCT0050checkSubscribe"/>
+          <include name="BCT0017clickPhaseEco"/>
+          <include name="BCT0017clickBoards"/>
+          <include name="BCT0027goToBoards"/>
+          <include name="BCT0058clickCheckbox"/>
+          <include name="BCT0016clickTasksTab"/>
+          <include name="BCT0028openTheCreatedCard"/>
+          <include name="BCT0042checkForDeleteButton"/>
+          <include name="BCT0064clickSettings"/>
+          <include name="BCT0010clickReleaseCoordinatorAddButton"/>
+          <include name="BCT0071openReadOnllyCard"/>
+          <include name="BCT0004projectEngineerOneLogout"/>
+          <include name="BCT0013clickAddTaskButton"/>
+          <include name="BCT0036uploadImage"/>
+          <include name="BCT0023close"/>
+          <include name="BCT0039clickUpload"/>
+          <include name="BCT0007clickOutside"/>
+          <include name="BCT0014enterReleaseCoordinatorTaskTwoStartDate" invocation-numbers="0"/>
+          <include name="BCT0065verifyCardInList4"/>
+          <include name="BCT0013enterReleaseCoordinatorTaskTilteTwo" invocation-numbers="0"/>
+          <include name="BCT0066openCardInList4"/>
+          <include name="BCT0007Clickout"/>
+          <include name="BCT0007clickPriorityIcon"/>
+          <include name="BCT0011enterReleaseCoordinatorTaskOwner" invocation-numbers="0"/>
+          <include name="BCT0030addThirdTask"/>
+          <include name="BCT0048projectEngineerLogout"/>
+          <include name="BCT0011enterReleaseCoordinatorTaskStartDate" invocation-numbers="0"/>
+          <include name="BCT0030clickCheckListIcon"/>
+          <include name="BCT0024clickApproval1Checkbox"/>
+          <include name="BCT0066addCommentInCard"/>
+          <include name="afterClass"/>
+          <include name="BCT0029clickThePriorityIcon"/>
+          <include name="BCT0011enterReleaseCoordinatorTaskOwnertwo" invocation-numbers="0"/>
+          <include name="BCT0036clickCoverbutton"/>
+          <include name="BCT0039clickUncoverButton"/>
+          <include name="BCT0015verifyTaskTwoTitle"/>
+          <include name="BCT0035enterComment" invocation-numbers="0"/>
+          <include name="BCT0022verifyOwner"/>
+          <include name="beforeClass"/>
+          <include name="BCT0012verifyTaskTitleOne"/>
+          <include name="BCT0030enterThirdTaskTitle" invocation-numbers="0"/>
+          <include name="BCT0052uploadTheImage"/>
+          <include name="BCT0019verifyTaskTitleTwo"/>
+          <include name="BCT0019openCard"/>
+          <include name="BCT0019verifyTaskTitle"/>
+          <include name="BCT0025enterApproval2Desc" invocation-numbers="0"/>
+          <include name="BCT0037verifyTaskTitleOne"/>
+          <include name="BCT0041clickPriority"/>
+          <include name="BCT0041clickStarredButton"/>
+          <include name="BCT0012scrollUp"/>
+          <include name="BCT0029changePriority" invocation-numbers="0"/>
+          <include name="BCT0020clickBoards"/>
+          <include name="BCT0062clickcard"/>
+          <include name="BCT0020releaseCoordinatorOneLogout"/>
+          <include name="BCT0025verifyApproval2Coord"/>
+          <include name="BCT0027goToECOBoard"/>
+          <include name="BCT0032verifyTaskThreeOwner"/>
+          <include name="BCT0037verifyTaskTitleThree"/>
+          <include name="BCT0073readOnlyLogout"/>
+          <include name="BCT0073ClickAddbutton" invocation-numbers="0"/>
+          <include name="BCT0057scrolToTaskSection"/>
+        </methods>
+      </class> <!-- fusepackage.FuseCards -->
+      <class name="fusepackage.FusePartsandProducts">
+        <methods>
+          <include name="PTPDT0032EnterPartName" invocation-numbers="0"/>
+          <include name="PTPDT0037InPartsClickonAddBillofmaterialButtoninBOM"/>
+          <include name="PTPDT0015AddOnemoreCommentsinthePart" invocation-numbers="0"/>
+          <include name="PTPDT0015ClickonAddButtontoAddtheCommentsinthePart"/>
+          <include name="PTPDT0072EnterProductCategoryName" invocation-numbers="0"/>
+          <include name="PTPDT0029GetPartIdentitytoEnterAdditionalInfo"/>
+          <include name="PTPDT0009GetBasicInfoHistoryAfterUpdationofPart"/>
+          <include name="PTPDT0017ClickonAddNewManufacturerinSourcingofPart"/>
+          <include name="PTPDT0079InProductsClickAddParttoBOMButtoninAddBOMforAddAnotherPart"/>
+          <include name="PTPDT0028ClickonCreateButtoninParts"/>
+          <include name="PTPDT0032StatusOfPartCreation"/>
+          <include name="PTPDT0076InProductsClickonAddBillofmaterialButtoninBOM"/>
+          <include name="Logout"/>
+          <include name="PTPDT0012ClickSaveButtoninAttachementsofParts"/>
+          <include name="PTPDT0076ClickonAddParttoBOMIfProductisInDevelopment"/>
+          <include name="PTPDT0010GetPartIdentitytoEnterAdditionalInfo"/>
+          <include name="PTPDT0087ClickYESonConfirmationMessageinProductIncrementalRevisionCheck"/>
+          <include name="PTPDT0065GetProductIdentitytoDoAttachments"/>
+          <include name="PTPDT0024DoAutoITtouploadJPGfileinSourcingofPart"/>
+          <include name="PTPDT0059EnterUnitMeasureinBasicInfoofProduct" invocation-numbers="0"/>
+          <include name="PTPDT0038InPartsEnterLocationinAddBOM"/>
+          <include name="PTPDT0083ClickOnProductinWhereused"/>
+          <include name="PTPDT0051ClickonWhereUsedTapinthePartView"/>
+          <include name="PTPDT0078InProductsEnterexistingPartNumberinAddBOM"/>
+          <include name="PTPDT0017ClickonManufacturerIfPartisInDevelopment"/>
+          <include name="PTPDT0059CheckHistoryinBasicInfoofProduct"/>
+          <include name="PTPDT0080SearchtheIntentedViewforPartinBOM"/>
+          <include name="PTPDT0079InProductsEnterAnotherBOMNotesinAddBOM"/>
+          <include name="PTPDT0068ClickonAddButtontoAddtheCommentsintheProduct"/>
+          <include name="PTPDT0007EnterProtypeinBasicInfoofPart" invocation-numbers="0"/>
+          <include name="PTPDT0028EnterPartRevisionNote" invocation-numbers="0"/>
+          <include name="PTPDT0010EnterInternalTrackingNumberinAdditionalInfoofPart"/>
+          <include name="PTPDT0028StatusOfPartCreation"/>
+          <include name="PTPDT0014ClickonAddButtontoAddtheCommentsinthePart"/>
+          <include name="PTPDT0019ClickOnAttachmentButtoninManufacturerofPart"/>
+          <include name="PTPDT0067ClickOnCommentsTabfromtheProductView"/>
+          <include name="PTPDT0058EnterProductName" invocation-numbers="0"/>
+          <include name="PTPDT0064SearchBillofmaterialtapinProduct"/>
+          <include name="PTPDT0047InPartsClickonYESButtonfromtheConfirmationMessageintheAddedPartofBOM"/>
+          <include name="PTPDT0050ClickonPartintheBOM"/>
+          <include name="PTPDT0021ClickonAddNewSupplierinSourcingofPart"/>
+          <include name="PTPDT0078InProductsClickonAddBillofmaterialButtoninBOMforAddExistingPart"/>
+          <include name="PTPDT0012DoAttachmentsIfPartisInDevelopment"/>
+          <include name="PTPDT0035ClickonCreateButtoninParts"/>
+          <include name="PTPDT0010DoAdditioanlInfoIfPartisInDevelopment"/>
+          <include name="PTPDT0035StatusOfPartCreation"/>
+          <include name="PTPDT0015StatusoftheCommentsAddedinthePart"/>
+          <include name="PTPDT0014EntertheCommentsinthePart" invocation-numbers="0"/>
+          <include name="PTPDT0048InPartsEnterRefinAddBOM"/>
+          <include name="PTPDT0020DoAutoITtouploadJPGfileinManufacturerofPart"/>
+          <include name="PTPDT0073DoAdditionalInfoIfProductisInDevelopment"/>
+          <include name="PTPDT0067StatusoftheCommentsAddedintheProduct"/>
+          <include name="PTPDT0044ClickOnWhereusedTapinPartView"/>
+          <include name="PTPDT0055ClickonExcelButtontoDownloadthePartListExcelFile"/>
+          <include name="PTPDT0054FindonPartfromtheFilter"/>
+          <include name="PTPDT0059SavetheBasicInfoofProduct"/>
+          <include name="PTPDT0077InProductsEnterQuantityinAddBOM"/>
+          <include name="PTPDT0085ClickOnProductinWhereused"/>
+          <include name="PTPDT0042InPartsClickonAddBillofmaterialButtontoAddanotherPartinBOM"/>
+          <include name="PTPDT0012GetPartIdentitytoDoAttachments"/>
+          <include name="PTPDT0086ProductStatusofAddAnotherParttoBOM"/>
+          <include name="PTPDT0012DoAutoITtoUploadPDFfileinAttachementsofParts"/>
+          <include name="PTPDT0045ClickonBillofmaterialtapinPartfromWhereUsed"/>
+          <include name="PTPDT0003EnterPartCategoryName" invocation-numbers="0"/>
+          <include name="PTPDT0063EnterInternalTrackingNumberinAdditionalInfoofProduct"/>
+          <include name="PTPDT0077InProductsEnterLocationinAddBOM"/>
+          <include name="PTPDT0063GetProductIdentitytoEnterAdditionalInfo"/>
+          <include name="PTPDT0007GetBasicInfoHistoryBeforeUpdationofPart"/>
+          <include name="PTPDT0020ClosetheUploadPopupinManufacturerofPart"/>
+          <include name="PTPDT0083SearchBillofmaterialtapinProductfromWherUsed"/>
+          <include name="PTPDT0046InPartsClickonEditIconintheAddedPartofBOM"/>
+          <include name="PTPDT0079InProductsEnterAnotherLocationinAddBOM"/>
+          <include name="PTPDT0072EnterProductName" invocation-numbers="0"/>
+          <include name="PTPDT0029DoAdditioanlInfoIfPartisInDevelopment"/>
+          <include name="PTPDT0040InPartsChangeQuantityinAddBOM"/>
+          <include name="PTPDT0048InPartsEnterQuantityinAddBOM"/>
+          <include name="PTPDT0065ClickonAttachmentsTabinProduct"/>
+          <include name="PTPDT0003StatusOfPartCreation"/>
+          <include name="PTPDT0032ClickonCreateNewButtoninParts"/>
+          <include name="PTPDT0003EnterPartName" invocation-numbers="0"/>
+          <include name="PTPDT0023ClickOnUploadButtontoAttachinSourcingofPart"/>
+          <include name="PTPDT0007SavetheBasicInfoofPart"/>
+          <include name="PTPDT0072ClickonCreateButtoninProducts"/>
+          <include name="PTPDT0087ClickonCreateButtonforProductIncrementalRevisionCheck"/>
+          <include name="PTPDT0072StatusOfProductCreation"/>
+          <include name="PTPDT0003ClickonCreateButtoninParts"/>
+          <include name="PTPDT0087ClosetheStatusofProductIncrementalRevisionCheck"/>
+          <include name="PTPDT0018EnterManufacturerCostinSourcingofPart"/>
+          <include name="PTPDT0079InProductsClickonAddBillofmaterialButtontoAddanotherPartinBOM"/>
+          <include name="PTPDT0038InPartsScrolldowninAddBOM"/>
+          <include name="PTPDT0045SearchBillofmaterialtapinPartfromWherUsed"/>
+          <include name="PTPDT0060EnterProjnameinBasicInfoofProduct" invocation-numbers="0"/>
+          <include name="PTPDT0038InPartsEnterPartNumberinAddBOM"/>
+          <include name="PTPDT0032EnterPartRevisionNote" invocation-numbers="0"/>
+          <include name="PTPDT0011SearchBillofmaterialtapinPart"/>
+          <include name="PTPDT0041InPartsClickonCloseButtoninAddBillofmaterialPopupMenu"/>
+          <include name="PTPDT0048InPartsEnterPartNumberinAddBOM"/>
+          <include name="PTPDT0022EnterSupplierPartNumberinSourcingofPart"/>
+          <include name="PTPDT0048InPartsStatusofAddParttoBOM"/>
+          <include name="PTPDT0014ClickOnCommentsTabfromthePartView"/>
+          <include name="PTPDT0018EnterManufacturerNameinSourcingofPart"/>
+          <include name="PTPDT0065DoAttachmentsIfProductisInDevelopment"/>
+          <include name="PTPDT0035EnterPartRevisionNote" invocation-numbers="0"/>
+          <include name="PTPDT0057ClickonCreateNewButtoninProducts"/>
+          <include name="PTPDT0043ClickonPartfromPartAddedintheBOM"/>
+          <include name="PTPDT0018ClickOnAddManufacturerButtoninSourcingofPart"/>
+          <include name="PTPDT0077InProductsEnterRefinAddBOM"/>
+          <include name="PTPDT0040InPartsEnterBOMNotesinAddBOM"/>
+          <include name="PTPDT0077InProductsScrolldowninAddBOM"/>
+          <include name="PTPDT0086InProductsEnterAnotherLocationinAddBOM"/>
+          <include name="PTPDT0086InProductsEnterAnotherQuantityinAddBOM"/>
+          <include name="PTPDT0086InProductsClickonAddBillofmaterialButtontoAddanotherPartinBOM"/>
+          <include name="Login"/>
+          <include name="PTPDT0059EnterProtypeinBasicInfoofProduct" invocation-numbers="0"/>
+          <include name="PTPDT0050SearchBillofmaterialtapinPart"/>
+          <include name="PTPDT0048InPartsEnterLocationinAddBOM"/>
+          <include name="PTPDT0042InPartsEnterAnotherLocationinAddBOM"/>
+          <include name="PTPDT0086InProductsEnterAnotherPartNumberinAddBOM"/>
+          <include name="PTPDT0077InProductsStatusofAddParttoBOM"/>
+          <include name="PTPDT0079ProductStatusofAddAnotherParttoBOM"/>
+          <include name="PTPDT0022ScrolldownonSupplierinSourcingofPart"/>
+          <include name="PTPDT0073GetProductIdentitytoEnterAdditionalInfo"/>
+          <include name="PTPDT0075ClickonBillofmaterialtapinProduct"/>
+          <include name="PTPDT0032ClickonCreateButtoninParts"/>
+          <include name="PTPDT0027ClickonCreateNewButtoninParts"/>
+          <include name="PTPDT0004EntertheRevisionNotesinPartIncrementalRevisionCheck" invocation-numbers="0"/>
+          <include name="PTPDT0078InProductsClickAddParttoBOMButtoninAddBOMforAddExistingPart"/>
+          <include name="PTPDT0055LogoutfromParts"/>
+          <include name="PTPDT0067ClickonAddButtontoAddtheCommentsintheProduct"/>
+          <include name="PTPDT0041InPartsEnterexistingPartNumberinAddBOM"/>
+          <include name="PTPDT0006CheckHistoryinBasicInfoofPart"/>
+          <include name="PTPDT0087StatusofProductIncrementalRevisionCheck"/>
+          <include name="PTPDT0007EnterProjnameinBasicInfoofPart" invocation-numbers="0"/>
+          <include name="PTPDT0022EnterSupplierAvailableinSourcingofPart"/>
+          <include name="PTPDT0036SearchBillofmaterialtapinPart"/>
+          <include name="PTPDT0047InPartsVerifytheStatusforDeletethePartfromfBOM"/>
+          <include name="PTPDT0058EnterProductRevisionNote" invocation-numbers="0"/>
+          <include name="PTPDT0012ClickonUploadButtoninAttachementsofParts"/>
+          <include name="PTPDT0039InPartsEnterQuantityinAddBOM"/>
+          <include name="PTPDT0087ClosetheProductInrementalRevisionPopup"/>
+          <include name="PTPDT0041InPartsClickAddParttoBOMButtoninAddBOMforAddExistingPart"/>
+          <include name="PTPDT0029ClickonAdditionalInfoTabinPart"/>
+          <include name="PTPDT0017GetPartIdentitytoClickonManufacturerinSourcing"/>
+          <include name="PTPDT0062GetBasicInfoHistoryAfterUpdationofProduct"/>
+          <include name="PTPDT0018EnterManufacturerAvailableinSourcingofPart"/>
+          <include name="PTPDT0035EnterPartCategoryName" invocation-numbers="0"/>
+          <include name="PTPDT0048InPartsClickonAddBillofmaterialButtoninBOM"/>
+          <include name="PTPDT0066SearchWhereUsedtapinProduct"/>
+          <include name="PTPDT0013ClickOnWhereusedTapinPart"/>
+          <include name="PTPDT0028EnterPartCategoryName" invocation-numbers="0"/>
+          <include name="PTPDT0004ClosetheStatusofPartIncrementalRevisionCheck"/>
+          <include name="PTPDT0022EnterSupplierDescriptioninSourcingofPart"/>
+          <include name="PTPDT0022EnterSupplierCurrencyinSourcingofPart"/>
+          <include name="PTPDT0077InProductsClickAddParttoBOMButtoninAddBOM"/>
+          <include name="PTPDT0004ClickYESonConfirmationMessageinPartIncrementalRevisionCheck"/>
+          <include name="PTPDT0018EnterManufacturerApprovedinSourcingofPart"/>
+          <include name="PTPDT0050ClickonBillofmaterialtapinPart"/>
+          <include name="PTPDT0082ClickonWhereUsedTapfromtheBOMPartView"/>
+          <include name="PTPDT0081ClickonAddedPartintheBOM"/>
+          <include name="PTPDT00123ClickOnAttachmentButtoninSourcingofPart"/>
+          <include name="PTPDT0041InPartsClickonCloseButtoninAddBillofmaterialStatus"/>
+          <include name="PTPDT0072EnterProductRevisionNote" invocation-numbers="0"/>
+          <include name="PTPDT0086InProductsScrolldowninAddBOMforaddAnotherBOM"/>
+          <include name="PTPDT0068StatusoftheCommentsAddedintheProduct"/>
+          <include name="PTPDT0021ClickonSupplierIfPartisInDevelopment"/>
+          <include name="PTPDT0053FindonPartfromtheFilter"/>
+          <include name="PTPDT0028EnterPartName" invocation-numbers="0"/>
+          <include name="PTPDT0042InPartsEnterAnotherBOMNotesinAddBOM"/>
+          <include name="PTPDT0040InPartsStatusofAddParttoBOM"/>
+          <include name="PTPDT0047InPartsClickonDeleteIconintheAddedPartofBOM"/>
+          <include name="PTPDT0016ClickonSourcingTapinPart"/>
+          <include name="PTPDT0045ClickonAddParttoBOMIfPartisInDevelopmentfromWhereUsed"/>
+          <include name="PTPDT0088SearchChangeStatusinProduct"/>
+          <include name="PTPDT0042InPartsEnterAnotherQuantityinAddBOM"/>
+          <include name="PTPDT0042InPartsClickAddParttoBOMButtoninAddBOMforAddAnotherPart"/>
+          <include name="PTPDT0036ClickonBillofmaterialtapinPart"/>
+          <include name="PTPDT0065ClickonUploadButtoninAttachementsofProducts"/>
+          <include name="PTPDT0071ClickonCreateNewButtoninProducts"/>
+          <include name="PTPDT0062GetStatusoftheBasicInfoUpdationofProduct"/>
+          <include name="PTPDT0075SearchBillofmaterialtapinProduct"/>
+          <include name="PTPDT0065DoAutoITtoUploadPDFfileinAttachementsofProducts"/>
+          <include name="PTPDT0022EnterManufacturerNameSuppinSourcingofPart"/>
+          <include name="PTPDT0069ClickOnTimelineTabfromProductView"/>
+          <include name="PTPDT0037ClickonAddParttoBOMIfPartisInDevelopment"/>
+          <include name="PTPDT0065ClickSaveButtoninAttachementsofProducts"/>
+          <include name="PTPDT0022EnterSupplierApprovedinSourcingofPart"/>
+          <include name="PTPDT0007EnterUnitMeasureinBasicInfoofPart" invocation-numbers="0"/>
+          <include name="PTPDT0032EnterPartCategoryName" invocation-numbers="0"/>
+          <include name="PTPDT0077InProductsEnterBOMNotesinAddBOM"/>
+          <include name="PTPDT0041InPartsClickonAddBillofmaterialButtoninBOMforAddExistingPart"/>
+          <include name="PTPDT0059EnterDescriptioninBasicInfoofProduct" invocation-numbers="0"/>
+          <include name="PTPDT0034ClickonCreateNewButtoninParts"/>
+          <include name="PTPDT0061EnterTagsinBasicInfoofProduct" invocation-numbers="0"/>
+          <include name="PTPDT0083ClickonBillofmaterialtapinProductfromWhereUsed"/>
+          <include name="PTPDT0050FindtheDeletedPartfromtheSearch"/>
+          <include name="PTPDT0063ClickonAdditionalInfoTabinProduct"/>
+          <include name="PTPDT0005CheckChangeStatusinPart"/>
+          <include name="PTPDT0002ClickonCreateNewButtoninParts"/>
+          <include name="PTPDT0022EnterManufacturerPartNumberSuppinSourcingofPart"/>
+          <include name="PTPDT0073ClickonAdditionalInfoTabinProduct"/>
+          <include name="PTPDT0014StatusoftheCommentsAddedinthePart"/>
+          <include name="PTPDT0010ClickonAdditionalInfoTabinPart"/>
+          <include name="PTPDT0042PartStatusofAddAnotherParttoBOM"/>
+          <include name="PTPDT0084ClickonWhereUsedTapoftheProduct"/>
+          <include name="PTPDT0048InPartsEnterBOMNotesinAddBOM"/>
+          <include name="PTPDT0050ClickonPartfromtheSearch"/>
+          <include name="PTPDT0079InProductsEnterAnotherPartNumberinAddBOM"/>
+          <include name="PTPDT0008GetStatusoftheBasicInfoUpdationofPart"/>
+          <include name="PTPDT0031SearchBillofmaterialtapinPart"/>
+          <include name="PTPDT0065DoAutoITtoUploadJPGfileinAttachementsofProducts"/>
+          <include name="PTPDT0058EnterProductCategoryName" invocation-numbers="0"/>
+          <include name="PTPDT0019ClickOnUploadButtontoAttachinManufacturerofPart"/>
+          <include name="PTPDT0008EnterTagsinBasicInfoofPart" invocation-numbers="0"/>
+          <include name="PTPDT0018EnterManufacturerCurrencyinSourcingofPart"/>
+          <include name="PTPDT0077InProductsEnterPartNumberinAddBOM"/>
+          <include name="PTPDT0058ClickonCreateButtoninProducts"/>
+          <include name="PTPDT0048InPartsScrolldowninAddBOM"/>
+          <include name="PTPDT0086InProductsClickAddParttoBOMButtoninAddBOMforAddAnotherPart"/>
+          <include name="PTPDT0068AddOneMoreCommentsintheProduct" invocation-numbers="0"/>
+          <include name="PTPDT0035EnterPartName" invocation-numbers="0"/>
+          <include name="PTPDT0079InProductsEnterAnotherQuantityinAddBOM"/>
+          <include name="PTPDT0079InProductsScrolldowninAddBOMforaddAnotherBOM"/>
+          <include name="PTPDT0022EnterSupplierNameinSourcingofPart"/>
+          <include name="PTPDT0012ClickonAttachmentsTabinPart"/>
+          <include name="PTPDT0018EnterManufacturerPartNameinSourcingofPart"/>
+          <include name="PTPDT0040InPartsClickAddParttoBOMButtoninAddBOM"/>
+          <include name="PTPDT0048InPartsClickAddParttoBOMButtoninAddBOM"/>
+          <include name="PTPDT0058StatusOfProductCreation"/>
+          <include name="PTPDT0078InProductsClickonCloseButtoninAddBillofmaterialPopupMenu"/>
+          <include name="PTPDT0061SavetheBasicInfofinalyofProduct"/>
+          <include name="PTPDT0045ClickOnPartinWhereused"/>
+          <include name="PTPDT0059GetBasicInfoHistoryBeforeUpdationOfProduct"/>
+          <include name="PTPDT0024ClosetheUploadPopupinSourcingofPart"/>
+          <include name="PTPDT0008SavetheBasicInfofinalyofPart"/>
+          <include name="PTPDT0012DoAutoITtoUploadJPGfileinAttachementsofParts"/>
+          <include name="PTPDT0025ClickOnTimelineTabfromPartView"/>
+          <include name="PTPDT0038InPartsEnterRefinAddBOM"/>
+          <include name="PTPDT0074EnterInternalTrackingNumberinAdditionalInfoofProduct"/>
+          <include name="PTPDT0030EnterInternalTrackingNumberinAdditionalInfoofPart"/>
+          <include name="PTPDT0003EnterPartRevisionNote" invocation-numbers="0"/>
+          <include name="PTPDT0018EnterManufacturerDescriptioninSourcingofPart"/>
+          <include name="PTPDT0022EnterSupplierCostinSourcingofPart"/>
+          <include name="PTPDT0067EntertheCommentsintheProduct" invocation-numbers="0"/>
+          <include name="PTPDT0042InPartsEnterAnotherPartNumberinAddBOM"/>
+          <include name="PTPDT0087EntertheRevisionNotesinProductIncrementalRevisionCheck" invocation-numbers="0"/>
+          <include name="PTPDT0063DoAdditionalInfoIfProductisInDevelopment"/>
+          <include name="PTPDT0042InPartsScrolldowninAddBOMforaddAnotherBOM"/>
+          <include name="PTPDT0007EnterDescriptioninBasicInfoofPart" invocation-numbers="0"/>
+          <include name="PTPDT0004StatusofPartIncrementalRevisionCheck"/>
+          <include name="PTPDT0022ClickonAddsupplierButtoninSourcingofPart"/>
+          <include name="PTPDT0078InProductsClickonCloseButtoninAddBillofmaterialStatus"/>
+          <include name="PTPDT0086InProductsEnterAnotherBOMNotesinAddBOM"/>
+        </methods>
+      </class> <!-- fusepackage.FusePartsandProducts -->
+      <class name="fusepackage.FuseplmBots">
+        <methods>
+          <include name="scrollUp"/>
+          <include name="closeWindow"/>
+          <include name="clickChangeStateButtonfirst"/>
+          <include name="clickModificationECO"/>
+          <include name="clickVisualizeButton"/>
+          <include name="login"/>
+          <include name="clickAffectedObject"/>
+          <include name="clickClickHereLink"/>
+          <include name="enterDueDate" invocation-numbers="0"/>
+          <include name="clickChangeStateButton"/>
+          <include name="closeCard"/>
+          <include name="clickReleaseButton"/>
+          <include name="verifyStaus"/>
+          <include name="scrolldown"/>
+          <include name="selectNextCoordinators"/>
+          <include name="selectBoard"/>
+          <include name="selectCoordinators"/>
+          <include name="verifyStatus"/>
+          <include name="clickReleasedButton"/>
+          <include name="clickCoordinatorButton"/>
+        </methods>
+      </class> <!-- fusepackage.FuseplmBots -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
